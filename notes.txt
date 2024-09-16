@@ -4,7 +4,7 @@
 
 Goal: Summarize the content of this PDF into simple bullet-point notes, focusing on key concepts, definitions, and main ideas. The goal is to provide a clear, concise overview that captures the essence of the slides without preserving unnecessary formatting or background elements.
 
-Context/Subject: \[Insert topic or subject of the slides\]
+Context/Subject: [Insert topic or subject of the slides]
 
 Instructions:
 
@@ -17,7 +17,7 @@ Instructions:
 
 Goal: Extract the content of this PDF into simple bullet-point notes, focusing on key concepts, definitions, and main ideas. The goal is to provide a clear and complete overview that captures the material on the slides without preserving unnecessary formatting or background elements.
 
-Context/Subject: \[Insert topic or subject of the slides\]
+Context/Subject: [Insert topic or subject of the slides]
 
 Instructions:
 
@@ -31,9 +31,9 @@ Instructions:
 
 Goal: Organize my notes for better readability and structure.
 
-Context/Subject: \[Insert topic or subject of the notes\]
+Context/Subject: [Insert topic or subject of the notes]
 
-Current Notes: \[Copy and paste your raw notes here\]
+Current Notes: [Copy and paste your raw notes here]
 
 ---
 
@@ -66,10 +66,10 @@ Instructions:
 
 Goal: Fill in missing details or expand on incomplete sections of my notes.
 
-Context/Subject: \[Insert topic or subject of the notes\]
+Context/Subject: [Insert topic or subject of the notes]
 
 Current Notes:  
-\[Copy and paste the section of your notes with missing information or gaps\]
+[Copy and paste the section of your notes with missing information or gaps]
 
 ---
 
@@ -101,10 +101,10 @@ Instructions:
 
 Goal: Review my notes for accuracy and correct any errors or misconceptions.
 
-Context/Subject: \[Insert topic or subject of the notes\]
+Context/Subject: [Insert topic or subject of the notes]
 
 Current Notes:  
-\[Copy and paste your notes here\]
+[Copy and paste your notes here]
 
 ---
 
@@ -136,10 +136,10 @@ Instructions:
 
 Goal: Generate study questions based on my class notes to help me review the material.
 
-Context/Subject: \[Insert topic or subject of the notes\]
+Context/Subject: [Insert topic or subject of the notes]
 
 Current Notes:  
-\[Copy and paste your notes here\]
+[Copy and paste your notes here]
 
 ---
 
