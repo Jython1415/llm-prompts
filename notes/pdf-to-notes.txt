@@ -1,0 +1,26 @@
+# Converting Slides
+
+## Concise
+
+Goal: Summarize the content of this PDF into simple bullet-point notes, focusing on key concepts, definitions, and main ideas. The goal is to provide a clear, concise overview that captures the essence of the slides without preserving unnecessary formatting or background elements.
+
+Context/Subject: [Insert topic or subject of the slides]
+
+Instructions:
+
+- Extract key concepts and definitions.  
+- Avoid reproducing exact wording where possible; aim for concise summaries.  
+- If there are any diagrams or charts, describe their main insights briefly.  
+- Highlight any significant concepts that are bolded, italicized, or underlined.
+
+## Verbose
+
+Goal: Extract the content of this PDF into simple bullet-point notes, focusing on key concepts, definitions, and main ideas. The goal is to provide a clear and complete overview that captures the material on the slides without preserving unnecessary formatting or background elements.
+
+Context/Subject: [Insert topic or subject of the slides]
+
+Instructions:
+
+- Extract notes, concepts, and definitions.  
+- If there are any diagrams or charts, describe their main insights.  
+- Highlight any significant concepts that are bolded, italicized, or underlined.

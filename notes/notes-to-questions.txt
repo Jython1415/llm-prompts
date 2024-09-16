@@ -1,0 +1,32 @@
+# Question Generation
+
+## Starter
+
+Goal: Generate study questions based on my class notes to help me review the material.
+
+Context/Subject: [Insert topic or subject of the notes]
+
+Current Notes:  
+[Copy and paste your notes here]
+
+---
+
+Instructions:
+
+- Generate flashcard-style questions: Provide short-answer or open-ended questions that prompt higher-order thinking.  
+- Focus on key concepts: Base the questions on the most important concepts, definitions, and processes outlined in the notes.  
+- Incorporate higher-order thinking: Include questions that require analysis, comparison, or application of the material, not just memorization.  
+- Include answers or hints: For each question, provide either the correct answer or an explanation of what a good answer would include.  
+- Desired Output: A set of questions covering the key points from my notes, with a mix of question types and difficulty levels, along with answers/explanations.
+
+## Continuation
+
+Goal: Generate study questions based on my class notes to help me review the material.
+
+Instructions:
+
+- Generate flashcard-style questions: Provide short-answer or open-ended questions that prompt higher-order thinking.  
+- Focus on key concepts: Base the questions on the most important concepts, definitions, and processes outlined in the notes.  
+- Incorporate higher-order thinking: Include questions that require analysis, comparison, or application of the material, not just memorization.  
+- Include answers or hints: For each question, provide either the correct answer or an explanation of what a good answer would include.  
+- Desired Output: A set of questions covering the key points from my notes, with a mix of question types and difficulty levels, along with answers/explanations.
