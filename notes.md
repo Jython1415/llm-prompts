@@ -1,0 +1,164 @@
+# Converting Slides
+
+## Concise
+
+Goal: Summarize the content of this PDF into simple bullet-point notes, focusing on key concepts, definitions, and main ideas. The goal is to provide a clear, concise overview that captures the essence of the slides without preserving unnecessary formatting or background elements.
+
+Context/Subject: \[Insert topic or subject of the slides\]
+
+Instructions:
+
+- Extract key concepts and definitions.  
+- Avoid reproducing exact wording where possible; aim for concise summaries.  
+- If there are any diagrams or charts, describe their main insights briefly.  
+- Highlight any significant concepts that are bolded, italicized, or underlined.
+
+## Verbose
+
+Goal: Extract the content of this PDF into simple bullet-point notes, focusing on key concepts, definitions, and main ideas. The goal is to provide a clear and complete overview that captures the material on the slides without preserving unnecessary formatting or background elements.
+
+Context/Subject: \[Insert topic or subject of the slides\]
+
+Instructions:
+
+- Extract notes, concepts, and definitions.  
+- If there are any diagrams or charts, describe their main insights.  
+- Highlight any significant concepts that are bolded, italicized, or underlined.
+
+# Organizing
+
+## Starter
+
+Goal: Organize my notes for better readability and structure.
+
+Context/Subject: \[Insert topic or subject of the notes\]
+
+Current Notes: \[Copy and paste your raw notes here\]
+
+---
+
+Instructions:
+
+- Structure the notes into clear sections: Divide the notes into main headings and subheadings based on the key topics.  
+- Bullet points: Use bullet points for lists or key concepts.  
+- Definitions/Explanations: If there are definitions or complex terms, ensure they are clearly explained.  
+- Numbered steps (if applicable): Use numbering if the notes describe a process or sequence of events.  
+- Highlight key formulas or concepts (if applicable): Use bold or separate key concepts, formulas, or theorems.  
+- Do not include questions for further reflection and study.  
+- Desired Output: Organized, cleanly formatted notes that follow a logical structure and are easy to read.
+
+## Continuation
+
+Goal: Organize my notes for better readability and structure.
+
+Instructions:
+
+- Structure the notes into clear sections: Divide the notes into main headings and subheadings based on the key topics.  
+- Bullet points: Use bullet points for lists or key concepts.  
+- Definitions/Explanations: If there are definitions or complex terms, ensure they are clearly explained.  
+- Numbered steps (if applicable): Use numbering if the notes describe a process or sequence of events.  
+- Highlight key formulas or concepts (if applicable): Use bold or separate key concepts, formulas, or theorems.  
+- Desired Output: Organized, cleanly formatted notes that follow a logical structure and are easy to read.
+
+# Filling in Gaps
+
+## Starter
+
+Goal: Fill in missing details or expand on incomplete sections of my notes.
+
+Context/Subject: \[Insert topic or subject of the notes\]
+
+Current Notes:  
+\[Copy and paste the section of your notes with missing information or gaps\]
+
+---
+
+Instructions:
+
+- Fill in missing details: Identify and add explanations for concepts that are not fully explained.  
+- Provide examples: Include relevant examples to clarify the material where needed.  
+- Add definitions: Define any terms or concepts that seem under-explained or are missing definitions.  
+- Clarify key points: Elaborate on key points that might need more detail to improve understanding.  
+- Make connections: Highlight relationships between different concepts if relevant.  
+- Desired Output: Detailed and complete notes with all gaps filled, ensuring clarity and depth in the explanation of each concept.
+
+## Continuation
+
+Goal: Fill in missing details or expand on incomplete sections of my notes.
+
+Instructions:
+
+- Fill in missing details: Identify and add explanations for concepts that are not fully explained.  
+- Provide examples: Include relevant examples to clarify the material where needed.  
+- Add definitions: Define any terms or concepts that seem under-explained or are missing definitions.  
+- Clarify key points: Elaborate on key points that might need more detail to improve understanding.  
+- Make connections: Highlight relationships between different concepts if relevant.  
+- Desired Output: Detailed and complete notes with all gaps filled, ensuring clarity and depth in the explanation of each concept.
+
+# Error Checking
+
+## Starter
+
+Goal: Review my notes for accuracy and correct any errors or misconceptions.
+
+Context/Subject: \[Insert topic or subject of the notes\]
+
+Current Notes:  
+\[Copy and paste your notes here\]
+
+---
+
+Instructions:
+
+- Check for accuracy: Verify the accuracy of the concepts, definitions, and formulas in my notes.  
+- Correct errors: Identify any misconceptions or incorrect information and provide corrections.  
+- Clarify vague or incomplete statements: If any statements are unclear, provide more detailed explanations or reword them for clarity.  
+- Highlight any missing critical information: Point out any important details that should be included for a more complete understanding.  
+- Ensure terminology consistency: Make sure all technical terms are used correctly and consistently.  
+- Desired Output: An accurate and corrected version of my notes, with explanations for any corrections made.
+
+## Continuation
+
+Goal: Review my notes for accuracy and correct any errors or misconceptions.
+
+Instructions:
+
+- Check for accuracy: Verify the accuracy of the concepts, definitions, and formulas in my notes.  
+- Correct errors: Identify any misconceptions or incorrect information and provide corrections.  
+- Clarify vague or incomplete statements: If any statements are unclear, provide more detailed explanations or reword them for clarity.  
+- Highlight any missing critical information: Point out any important details that should be included for a more complete understanding.  
+- Ensure terminology consistency: Make sure all technical terms are used correctly and consistently.  
+- Desired Output: An accurate and corrected version of my notes, with explanations for any corrections made.
+
+# Question Generation
+
+## Starter
+
+Goal: Generate study questions based on my class notes to help me review the material.
+
+Context/Subject: \[Insert topic or subject of the notes\]
+
+Current Notes:  
+\[Copy and paste your notes here\]
+
+---
+
+Instructions:
+
+- Generate flashcard-style questions: Provide short-answer or open-ended questions that prompt higher-order thinking.  
+- Focus on key concepts: Base the questions on the most important concepts, definitions, and processes outlined in the notes.  
+- Incorporate higher-order thinking: Include questions that require analysis, comparison, or application of the material, not just memorization.  
+- Include answers or hints: For each question, provide either the correct answer or an explanation of what a good answer would include.  
+- Desired Output: A set of questions covering the key points from my notes, with a mix of question types and difficulty levels, along with answers/explanations.
+
+## Continuation
+
+Goal: Generate study questions based on my class notes to help me review the material.
+
+Instructions:
+
+- Generate flashcard-style questions: Provide short-answer or open-ended questions that prompt higher-order thinking.  
+- Focus on key concepts: Base the questions on the most important concepts, definitions, and processes outlined in the notes.  
+- Incorporate higher-order thinking: Include questions that require analysis, comparison, or application of the material, not just memorization.  
+- Include answers or hints: For each question, provide either the correct answer or an explanation of what a good answer would include.  
+- Desired Output: A set of questions covering the key points from my notes, with a mix of question types and difficulty levels, along with answers/explanations.
